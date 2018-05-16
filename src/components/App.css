@@ -1,0 +1,69 @@
+.main {
+  color: #41848f;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.subject {
+  width: 55%;
+  margin-top: 6%;
+  /* 위 아래 오른쪽 왼 */
+  margin: 6% auto auto auto;
+  text-align: center;
+  background-color: #97c0b7;
+  border: 1px solid #97c0b7;
+  border-radius: 1px;
+}
+
+.work {
+  width: 55%;
+  margin: 1% auto auto auto;
+  background-color: #97c0b7;
+  border: 1px solid #97c0b7;
+  border-radius: 1px;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  margin: 3%;
+}
+
+.search input {
+  font-size: 1rem;
+  text-align: center;
+  border: none;
+  background-color: #eee9d1;
+}
+
+.flex {
+  display: flex;
+}
+
+.contact {
+  color: green;
+  width: 50%;
+  text-align: center;
+}
+
+.people {
+  color: black;
+  margin-top: 2.5%;
+}
+
+.change {
+  width: 50%;
+}
+
+.change-box {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  color: green;
+  margin-top: 9%;
+}
+
+.change-box input {
+  text-align: center;
+}
